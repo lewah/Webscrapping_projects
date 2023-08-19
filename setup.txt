@@ -1,0 +1,7 @@
+conda create --name webscrapping
+conda activate webscrapping
+conda deactivate
+
+
+packages
+pip install beautifulsoup4
