@@ -4,3 +4,6 @@ Usually the opening tag is just tag name but the closing tag has a slash before 
 In most cases, there are only a few tags that contain information we need, e.g., tag <div> usually defines a table, tag <a> creates a hyperlink (the link is at attribute 'href' and it may skip prefix if the prefix is the same as current URL), tag <img> comes up with a pic (the link is hidden in attribute src), tag <p> or <h1>-<h6> normally contains text. 
 
 The attribute 'find_all' returns all the matched results, '.text' attribute automatically gets all str values inside the current tag.
+
+HTML
+JSON
