@@ -5,7 +5,6 @@
 
 #packages
 pip install beautifulsoup4
-pip install requests
 
 conda install libxml2 libxslt
 conda install lxml
@@ -15,3 +14,6 @@ conda install beautifulsoup4
 
 # cleaing conda
 conda clean --all
+
+#For conda install requests  check the version of python running in the conda env and the version of python running on your IDE
+python --version
