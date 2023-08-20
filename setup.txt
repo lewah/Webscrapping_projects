@@ -1,7 +1,17 @@
-conda create --name webscrapping
-conda activate webscrapping
-conda deactivate
+# conda create --name webscrapping
+# conda activate webscrapping
+# conda deactivate
 
 
-packages
+#packages
 pip install beautifulsoup4
+pip install requests
+
+conda install libxml2 libxslt
+conda install lxml
+conda install requests
+conda install beautifulsoup4
+
+
+# cleaing conda
+conda clean --all
