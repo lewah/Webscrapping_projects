@@ -7,3 +7,6 @@ The attribute 'find_all' returns all the matched results, '.text' attribute auto
 
 HTML
 JSON
+
+Tools
+1.BeautifulSoup
