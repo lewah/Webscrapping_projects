@@ -13,9 +13,10 @@ We simply apply attribute re.search('','').group() to concatenate the text toget
 regex - look-ahead and look-behind   (?<=) and (?=)
 If the content you are looking for is always behind a comma and before a question mark. You can simply do     (?<=\,)\S*(?=\?)
 
-HTML
-JSON
-Regular Expression
+Data you can work with when scraping data
+    1.HTML
+    2.JSON
+    3.Regular Expression
 
 Tools
 1.BeautifulSoup
