@@ -1,0 +1,21 @@
+https://www.scrapingdog.com/blog/scrape-indeed-using-python/
+https://api.scrapingdog.com/dashboard/6501b0f2e44b9a6b5577db79 
+
+Here we are using the ETL method
+
+Extract
+Transform
+Load
+
+python3 -m venv webscrapping
+source webscrapping/bin/activate
+deactivate
+
+
+#packages
+pip install beautifulsoup4
+--pip install serpapi
+pip install google-search-results  - Python 3.7+
+pip install pandas
+
+

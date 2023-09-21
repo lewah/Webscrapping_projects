@@ -1,0 +1,10 @@
+Webscrapping_projects/JobSearchWebsite/webscrapping
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
